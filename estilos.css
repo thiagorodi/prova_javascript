@@ -1,0 +1,40 @@
+html {
+	font: 100%;
+	font-family: helvetica, colibri, tahoma, sans-serif;
+	color: #333;
+	background-image: url("../img/brillant.png");
+	background-position: initial initial;
+	background-repeat: initial initial;
+	text-shadow: 0.1em 0.1em 0.1em #eee;
+}
+
+.lixeira
+{
+	width: 16px;
+	height: 16px;
+
+	background-image: url("../img/delete.gif");
+	background-repeat: no-repeat;
+	
+	display: block;
+	float: right;
+
+}
+table
+{
+	width: 50%;
+	text-align: center;
+	margin: 50px auto;
+	border: 1px solid black;
+	border-collapse: collapse;
+}
+th
+{
+	color:red;
+	border 2px solid;
+}
+
+.final
+{
+	font-weight: bold;
+}
